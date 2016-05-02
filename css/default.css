@@ -1,23 +1,15 @@
 @charset="UTF-8";
-<head>
- <style>
-  @inport url("css/default.css");
- </style>
-</head>
-h1
-{
+h1{
   font-size:1.75em:
   background-color:#777777;
   background-image:image1,jpg;
   background-repeat:no-repeat;
 }
-#id
-{
+#id{
   font-size:1.25em:
   font-weight:bold;
 }
-.class
-{
+.class{
   border:#94C8B1 1px botted;
   border-left:#D0E35B 1-px solid;
   margin-bottom:0;

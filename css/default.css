@@ -1,0 +1,20 @@
+@charset="UTF-8";
+h1
+{
+  font-size:1.75em:
+  background-color:#777777;
+  background-image:image1,jpg;
+  background-repeat:no-repeat;
+}
+#id
+{
+  font-size:1.25em:
+  font-weight:bold;
+}
+p.class
+{
+  border:#94C8B1 1px botted;
+  border-left:#D0E35B 1-px solid;
+  margin-bottom:0;
+  padding:5px 20px;
+}

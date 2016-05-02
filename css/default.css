@@ -1,4 +1,9 @@
 @charset="UTF-8";
+<head>
+ <style>
+  @inport url("css/default.css");
+ </style>
+</head>
 h1
 {
   font-size:1.75em:
